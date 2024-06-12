@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henrique;
 - 👀 I’m interested in Front and Back End development;
-- 🌱 I’m currently learning HTML, CSS, JavaScript and a lot of stuff;
-- 💞️ I’m looking to collaborate on almost everything that I can help;
+- 🌱 I’m currently learning Python, SQL(PostgreSQL) and a lot of back-end stuff;
+- 💞️ I’m looking forward to collaborate on almost everything that I can help;
 - 📫 Reach me at Instagram | @h.sanfilippo_
 
 
