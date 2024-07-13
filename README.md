@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henrique;
-- 👀 I’m interested in Front and Back End development;
+- 👀 I’m interested in Fullstack development & DevOps;
 - 🌱 I’m currently learning Python, SQL(PostgreSQL), Linux and a lot of back-end stuff;
 - 📚 In the last year i have learned: HTML, CSS(Sass), JavaScript, TypeScript and React;
 - 💞️ I’m looking forward to collaborate on almost everything that I can help;
